@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Removes the blur on images of people that liked you
-// @author       David Tsitsisahvili, Tomer Danilov
+// @author       David, Tomer
 // @match        https://www.okcupid.com/who-likes-you
 // @icon         https://cdn.pixabay.com/photo/2018/02/10/20/48/emoji-3144518_960_720.png
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
